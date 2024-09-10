@@ -18,7 +18,7 @@ Build a data pipeline to extract, process, and store the top 100 trending Telugu
   - Stored the transformed data in three locations: locally for immediate access, on AWS S3 for scalable and secure cloud storage, and in Azure Data Lake for long-       term storage and          advanced analytics.
  
 ## Unstructured Data Design
-    ![Unstructured Json](https://github.com/gattukarthik/ETL-unstructured-cloud/blob/main/SPOTIFY_API.png?raw=true)
+  ![Unstructured Json](https://github.com/gattukarthik/ETL-unstructured-cloud/blob/main/SPOTIFY_API.png)
 
 ## Step-by-Step Approach
    - Step 1: Register on Spotify account(create an account in Soptify Developer Website -> create app and get credentials(CLIENT_ID and CLIENT_SECRET))
@@ -29,6 +29,6 @@ Build a data pipeline to extract, process, and store the top 100 trending Telugu
    - Step 6: Load the csv file into AWS S3 and Azure Datalake.
 
 ## Conclusion
-   -We have successfully extracted the top 100 trending Telugu songs, including details about the artists who performed them and the movies they are associated with. Each piece of         
-    information has been organized into separate tables, enabling comprehensive analysis and insights into the music trends.
+   We have successfully extracted the top 100 trending Telugu songs, including details about the artists who performed them and the movies they are associated with. Each piece of         
+   information has been organized into separate tables, enabling comprehensive analysis and insights into the music trends.
   
