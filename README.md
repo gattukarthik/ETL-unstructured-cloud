@@ -18,7 +18,7 @@ Build a data pipeline to extract, process, and store the top 100 trending Telugu
   - Stored the transformed data in three locations: locally for immediate access, on AWS S3 for scalable and secure cloud storage, and in Azure Data Lake for long-       term storage and          advanced analytics.
  
 ## Unstructured Data Design
-    ![Alt Text](D:\azure\Github\ETL_USING_PYTHON\SPOTIFY_API.png)
+    ![Unstructured Json](https://github.com/gattukarthik/ETL-unstructured-cloud/blob/main/SPOTIFY_API.png)
 
 ## Step-by-Step Approach
   
