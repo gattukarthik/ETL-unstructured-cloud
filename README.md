@@ -29,6 +29,6 @@ Build a data pipeline to extract, process, and store the top 100 trending Telugu
    - Step 6: Load the csv file into AWS S3 and Azure Datalake.
 
 ## Conclusion
-   We have successfully extracted the top 100 trending Telugu songs, including details about the artists who performed them and the movies they are associated with. Each piece of         
-   information has been organized into separate tables, enabling comprehensive analysis and insights into the music trends.
+   We have successfully extracted the top 100 trending Telugu songs, including details about the artists who performed them and the movies they are associated with. Each piece of information has been organized into separate tables, 
+   enabling comprehensive analysis and insights into the music trends.
   
